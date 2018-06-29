@@ -1,0 +1,22 @@
+{
+  "name": "ahjoserver",
+  "version": "0.1.0-a9f3b578",
+  "description": "AhjoJs Server",
+  "main": "./lib/AhjoServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Collin <hcollin78@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "express": "^4.16.3",
+    "mobx": "^4.3.1",
+    "mobx-state-tree": "^2.0.5"
+  },
+  "devDependencies": {
+    "express": "^4.16.3",
+    "mobx": "^4.3.1",
+    "mobx-state-tree": "^2.0.5",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}

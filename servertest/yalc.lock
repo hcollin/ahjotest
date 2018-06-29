@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "ahjoserver": {
+      "signature": "a9f3b57871e1bf06fcd125fc57830452",
+      "file": true
+    }
+  }
+}
